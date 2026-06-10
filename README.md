@@ -9,7 +9,7 @@ classification task on 16,000 samples with 128 features. Evaluated using
 2. Activate it: `venv\Scripts\activate` (Windows) or `source venv/bin/activate` (Mac/Linux)
 3. Install dependencies: `pip install -r requirements.txt`
 4. Place `data.txt` inside a `data/` folder
-5. Run: `jupyter notebook assignment_2.ipynb`
+5. Run: `jupyter notebook binary_classification.ipynb`
 
 ## Results
 
